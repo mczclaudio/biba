@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ <title>Android Configuration Page</title>
+ </head>
+ 
+<body>
+ Ingresa a tu Aplicación en BIBA regional
+ <br/>
+ <br/>
+
+
+<a href="planificacion://?url=https%3A%2F%2Fbi-mobile.cencosud.com%3A443%2FMicroStrategyMobile%2Fservlet%2FtaskProc%3FtaskId%3DgetMobileConfiguration%26taskEnv%3Dxhr%26taskContentType%3Djson%26configurationID%3D4f3aa9e2-289d-42a2-93ba-f95d40fcd615%26blockTransform%3Dflatten%26blockVersion%3D1&authMode=1&dt=3">link</a> 
+
+
+
+ <br/>
+ <br/>
+ 
+ 
+ 
+ </body>
+ 
+</html> 
